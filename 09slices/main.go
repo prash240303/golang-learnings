@@ -27,4 +27,6 @@ func main() {
 	fmt.Println(sort.IntsAreSorted(numbers))
 	sort.Ints(numbers)
 	fmt.Println(numbers)
+
+	fmt.Println("hafw")
 }
